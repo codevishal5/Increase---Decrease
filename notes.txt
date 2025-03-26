@@ -1,0 +1,6 @@
+step 1:- create repo
+step 2:- 3 lines copy and paste
+step 3:- git add .
+step :- git commit -m " "
+4:- git push 
+_________________________________
